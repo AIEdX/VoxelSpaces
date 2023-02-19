@@ -1,8 +1,9 @@
 {
   "name": "voxelspaces",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tool for converting postiions to different spaces.",
-  "main": "dist/VoxelSpaces.js",
+  "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +14,7 @@
   "author": "Divine Star Software",
   "license": "MIT",
   "type": "module",
-  "types": "./dist/VoxelSpaces.d.ts",
+
   "bugs": {
     "url": "https://github.com/Divine-Star-Software/VoxelSpaces/issues"
   },
