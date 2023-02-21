@@ -1,6 +1,6 @@
 {
   "name": "voxelspaces",
-  "version": "1.0.1",
+  "version": "1.0.11",
   "description": "Tool for converting postiions to different spaces.",
   "main": "index.js",
   "types": "index.d.ts",
